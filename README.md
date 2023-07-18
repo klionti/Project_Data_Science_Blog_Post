@@ -29,5 +29,5 @@ Jupyter Notebooks that explores data to answer the questions posed above:\
 Results are available in my blog post:
 
 ## Acknowledgments:
-StackOverflow for survey_results_public.csv & survey_results_schema.csv (License: https://opendatacommons.org/licenses/odbl/1-0/)\
+StackOverflow for survey_results_public.csv & survey_results_schema.csv (License: https://opendatacommons.org/licenses/odbl/1-0/) \
 Human Development Reports for hdi.csv (copyright & terms of use: https://hdr.undp.org/copyright-and-terms-use)
