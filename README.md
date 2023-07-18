@@ -7,9 +7,9 @@ Pandas, Numpy, Matplotlib
 ## Project motivation:
 Based on this global survey, I thought it would be interesting to study which country seems best for software developers from 3 different angles: salary, flexibiity to work remotely, and career satisfaction. I am specifically interested in the answers as a mother of young children who ideally needs all three.
 
-Question 1: Which country pays software developers the most?\
-Question 2: Which country is best for software developers to work remotely?\
-Question 3: Which country gives software developers the most career satisfaction?
+Question 1: Which developed country pays software developers the most?\
+Question 2: Which developed country is best for software developers to work remotely?\
+Question 3: Which developed country gives software developers the most career satisfaction?
 
 ## Files:
 Data source files:\
